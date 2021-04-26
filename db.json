@@ -1,1 +1,32 @@
-
+{
+    "events": [
+        {
+            "id": 1,
+            "eventTitle": "Party",
+            "eventbody": "This is the best of the best event in the entire here",
+            "time": "11 pm",
+            "on": "Monday"
+        },
+        {
+            "id": 2,
+            "eventTitle": "Study ",
+            "eventbody": "We all need to study some day!",
+            "time": "10 pm",
+            "on": "Tuesday"
+        },
+        {
+            "id": 3,
+            "eventTitle": "Pizza",
+            "eventbody": "Fadi's has the best pizza to offer here!",
+            "time": "11 pm",
+            "on": "Wednesday"
+        },
+        {
+            "id": 4,
+            "eventTitle": "Dumpling yogurt",
+            "eventbody": "Girl's favorite!",
+            "time": "10 pm",
+            "on": "Thursday"
+        }
+    ]
+}
